@@ -1,5 +1,8 @@
 # 🛒 E-commerce Lakehouse Pipeline (Medallion Architecture)
-
+# High-Throughput Apache Spark Structured Streaming Optimization in Resource-Constrained Edge and Cloud Environments
+#### Lalit  Jindal  2210991847
+#### Monu kumar     2210990583
+#### Status         Pending to communicate in conference
 This project implements an **end-to-end data pipeline** for an e-commerce system using the **Medallion Architecture (Bronze → Silver → Gold)** on **Databricks (PySpark + Delta Lake)**.
 
 It is designed to be **scalable, metadata-driven, and production-ready**, supporting incremental processing, auditing, and orchestration.
